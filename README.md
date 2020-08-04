@@ -1,0 +1,1 @@
+Deconstructing a webpage and rebuilding it. Refresh HTML/CSS knowledge and maybe pick up JavaScript.
